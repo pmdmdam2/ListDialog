@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListDialog</string>
+    <string name="pick_color">Selecciona un color</string>
+    <string name="elige_color">Elige un color</string>
+    <string name="color_elegido">El color elegido es</string>
+    <string name="rojo">Rojo</string>
+    <string name="verde">Verde</string>
+    <string name="azul">Azul</string>
+</resources>
