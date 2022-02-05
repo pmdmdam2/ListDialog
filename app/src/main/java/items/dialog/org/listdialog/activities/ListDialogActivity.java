@@ -1,10 +1,11 @@
 package items.dialog.org.listdialog.activities;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import items.dialog.org.listdialog.dialogs.ListDialogFragment;
 import items.dialog.org.listdialog.R;
